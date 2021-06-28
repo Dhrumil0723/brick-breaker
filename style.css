@@ -35,7 +35,8 @@ body {
   display: none;
   left: 564px;
   top: 400px;
-  background-image: url(images/sound_on.png);
+  background-image: url(./images/volume.svg);
+  background-repeat: no-repeat;
   width: 72px;
   height: 54px;
   cursor: pointer;
